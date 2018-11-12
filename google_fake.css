@@ -1,0 +1,57 @@
+
+div1 {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 14px;
+  color: blue;
+}
+
+span {
+  padding: 10px;
+  text-decoration: underline;
+}
+
+div2 {
+  position: absolute;
+  left: 0;
+  top: 35%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
+#logo {
+  width: 40%; height: 40%;
+}
+
+div3 {
+  position: fixed;
+  bottom: 150px;
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+  margin: 0 auto;
+  padding: -5px;
+}
+
+input {
+  width: 400px;
+  height: 30px;
+}
+
+.select_buttons {
+  width: 176px;
+  height: 30px;
+  margin-top: 15px;
+  position: relative;
+  color: rgb(117,117,117);
+  font-family: arial, sans-serif;
+  font-weight: bold;
+  border-color: rgb(242, 242, 242);
+}
+
+input.select_buttons:hover {
+  color: #1a1a1a;
+  background-color: #e6e6e6;
+}
